@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'DM Sans', sans-serif;
+    box-sizing: border-box;
+}
+:root{
+    --color-amarillo:#F7931A;
+    --color-palido:#FFE9D5;
+    --color-celeste:#1A9AF7;
+    --color-blanco:#E7F5FF;
+    --color-cafes1:#201E1C;
+    --color-cafe2:#282623;
+    --color-gris1:#BABABA;
+    --color-gris2:#FAF8F7;
+    --color-blanco1:#FFFFFF;
+}
+body{
+    font-size: 64.5%;
+    margin: auto;
+}
