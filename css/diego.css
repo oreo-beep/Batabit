@@ -31,7 +31,21 @@
     font-size: 15px;
 }
 .section_11{
-    height: 100px;
+    height: 500px;
     width: 375px;
-    background-color: chocolate;
+    background-color: #FAF8F7;
+}
+.section_11 img{
+    margin: 30px 0px 0px 90px;
+}
+.visi{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+.visi h2{
+    color: #BABABA;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
 }
