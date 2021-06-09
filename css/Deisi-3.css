@@ -1,10 +1,11 @@
 .sen_3{
-    width: 40rem;
+    width: 35rem;
     height: auto;
+    margin: auto;
 
 }
 .FOTO-1{
-    width: 40rem;
+    width: 35rem;
     height: 49rem;
     margin: auto;
     background-image: url(../img/women.png);
@@ -132,8 +133,9 @@ font-size:1.5rem;
 /* Footer */
 
 footer{
-    width:40rem;
+    width:35rem;
     height:15rem;
+    margin: auto;
     background-color: var( --color-amarillo);
     color:var(--color-blanco1);
     display:flex;
@@ -145,8 +147,6 @@ footer{
     margin: auto;
     padding-top: 2rem;
     margin-right: 3rem;
-    
- 
 }
 .P_1 li{
     
@@ -158,20 +158,16 @@ footer{
     height:9rem ;
     margin: auto;
     margin-left: 3rem;
-    
     padding: 2rem;
-    
-    
- 
+
 }.MG_1{
-    width: 6rem;
-    height: 4rem;
+    width: 5rem;
+    height: 3rem;
     margin: auto;
     display: flex;
-    
-
-   
 }
-.Pa_2 p{
- font-size:0.9rem ;
+.P-B{
+    margin-top: 1rem;
+    font-size:0.9rem ;
+    text-align: center;
 }
