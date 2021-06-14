@@ -16,6 +16,10 @@
     --color-blanco1:#FFFFFF;
 }
 body{
+<<<<<<< HEAD
     font-size: 62.5%;
+=======
+    font-size: 62.5%;/*10px*/
+>>>>>>> ebc9416f4acdaa15b906ecfa5981a2893747a89e
     margin: auto;
 }
