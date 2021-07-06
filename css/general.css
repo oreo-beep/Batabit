@@ -15,10 +15,14 @@
     --color-gris2:#FAF8F7;
     --color-blanco1:#FFFFFF;
 }
+<<<<<<< HEAD
 body{
 <<<<<<< HEAD
     font-size: 62.5%;
 =======
+=======
+html{
+>>>>>>> b11831196259cd391a89b5f6cdaea5b5f4be7778
     font-size: 62.5%;/*10px*/
 >>>>>>> ebc9416f4acdaa15b906ecfa5981a2893747a89e
     margin: auto;
