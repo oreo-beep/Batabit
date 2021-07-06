@@ -1,13 +1,13 @@
 .section_1{
-    height: 350px;
-    width: 375px;
+    height: 23rem;
+    width: 23rem;
     background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
     margin: auto;
     
 }
 .titulo{
-    height: 50px;
-    padding-top: 30px;
+    height: 3rem;
+    padding-top: 2rem;
 }
 .papa{
     margin: 13px 0px 0px 100px;
