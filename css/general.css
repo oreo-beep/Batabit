@@ -15,7 +15,7 @@
     --color-gris2:#FAF8F7;
     --color-blanco1:#FFFFFF;
 }
-body{
+html{
     font-size: 62.5%;/*10px*/
     margin: auto;
 }
