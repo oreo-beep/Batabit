@@ -8,6 +8,7 @@
 .titulo{
     height: 3rem;
     padding-top: 2rem;
+    background: red;
 }
 .papa{
     margin: 13px 0px 0px 100px;
